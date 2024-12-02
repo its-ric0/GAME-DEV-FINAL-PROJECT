@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Scrumf
+  - Ground
+  - Platform
+  - Spike
+  - Coin
+  - UI
+  - ScreenFader
+  - Goal
+  - Text
+  - Collectable
+  - Hazard
+  - Background
+  - Pole
+  - Trigger
+  - 'Diamond '
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: 'Background '
+    uniqueID: 2030786263
+    locked: 0
+  - name: HUD
+    uniqueID: 243895221
+    locked: 0
+  - name: Scrumf
+    uniqueID: 855292997
+    locked: 0
+  - name: Platform
+    uniqueID: 1075907469
+    locked: 0
+  - name: Hazard
+    uniqueID: 2680187973
+    locked: 0
+  - name: 'Ground '
+    uniqueID: 81750649
+    locked: 0
+  - name: Goal
+    uniqueID: 199969599
+    locked: 0
+  - name: 'collectable '
+    uniqueID: 3380602035
+    locked: 0
+  - name: 'Diamond '
+    uniqueID: 4263862789
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
